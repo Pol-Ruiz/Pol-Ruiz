@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=1207&lines=La+ciberseguridad+no+es+s%C3%B3lo+tecnolog%C3%ADa%2C+sino+tambi%C3%A9n+personas.+-+Kevin+Mitnick;La+mejor+manera+de+predecir+el+futuro+es+inventarlo.+-+Alan+Kay;Los+amateurs+hackean+sistemas%2C+los+profesionales+hackean+personas.+-+Bruce+Schneier;La+prevenci%C3%B3n+es+la+mejor+defensa.+-+Refr%C3%A1n+popular;Si+tu+empresa+gasta+m%C3%A1s+en+caf%C3%A9+que+en+seguridad+TI%2C+ser%C3%A1s+hackeado.+Es+m%C3%A1s%2C+%C2%A1mereces+ser+hackeado!.+-+Richard+Clarke)](https://git.io/typing-svg)
+
 <!--
 **Pol-Ruiz/Pol-Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
